@@ -1,0 +1,16 @@
+Alumno: 
+Cristian Ernesto Valle Flores - SMSS068623
+Diego Samuel Reyes Moreno - SMSS057423  
+1- grafico de barras: 
+el CVS es de estadisticas de personas que van al gimnasio
+en este grafico observaremos las categorias de peso y latidos por minutos de cada persona en el ginnasio 
+https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset
+2 - grafico de lineas
+el CVS trata sobre los indices de seguridad en latinoamerica sobre los ultimos 5 años
+https://www.kaggle.com/datasets/romanlisachov/safety-index-for-the-last-5-years
+en este grafico observaremos el rango y y el indice de seguridad que ha habido en el 2020 durante la pandemia
+3- grafica circular
+el CVS trata sobre una tienda electronica donde define las caracteristicas de cada pc en la tienda
+https://www.kaggle.com/datasets/owm4096/laptop-prices
+en esta grafica veremos una distribucion del peso segun la cantidad de ram de los equipos de la tienda de 
+computadoras 
